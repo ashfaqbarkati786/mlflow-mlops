@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/818596975726061423/27a8bde181ff4adc9d71dca21c18e4c6/artifacts
+end_time: 1762326548326
+entry_point_name: ''
+experiment_id: '818596975726061423'
+lifecycle_stage: active
+run_id: 27a8bde181ff4adc9d71dca21c18e4c6
+run_name: useful-vole-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762326543812
+status: 3
+tags: []
+user_id: hash

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/818596975726061423/b23dc5ef17964b0587c084976898cfc6/artifacts
+end_time: 1762329235518
+entry_point_name: ''
+experiment_id: '818596975726061423'
+lifecycle_stage: active
+run_id: b23dc5ef17964b0587c084976898cfc6
+run_name: unruly-crane-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762329231056
+status: 3
+tags: []
+user_id: hash

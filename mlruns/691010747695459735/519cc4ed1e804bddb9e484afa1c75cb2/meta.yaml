@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/691010747695459735/519cc4ed1e804bddb9e484afa1c75cb2/artifacts
+end_time: 1762311557199
+entry_point_name: ''
+experiment_id: '691010747695459735'
+lifecycle_stage: active
+run_id: 519cc4ed1e804bddb9e484afa1c75cb2
+run_name: gregarious-skink-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762311556684
+status: 3
+tags: []
+user_id: hash
